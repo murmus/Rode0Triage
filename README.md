@@ -1,5 +1,7 @@
 # Rode0Triage
-Repository for my May Rode0Day Results 
+Repository for my May Rode0Day Results
+
+To watch the video series: https://www.youtube.com/playlist?list=PLfERMgzlCp0Are7kbnuZx2I8opj38SyNb
 
 ## Competition
 
